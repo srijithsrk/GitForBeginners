@@ -5,5 +5,4 @@ Github is a open source which is basically is a hosting platform where tech enth
 # Git VS Github
  Git is a version control whereas Github is a hosting platform.
 # Use of Github
-Now a days interviewers are checking the hardwork of students by the work which they have done in github during their btech
-life.
+Now a days interviewers are checking the hardwork of students by the work which they have done in github during their graduation.
